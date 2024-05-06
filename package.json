@@ -1,0 +1,22 @@
+{
+  "name": "simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.57.0",
+    "eslint-plugin-check-file": "^2.8.0",
+    "eslint-plugin-vue": "^9.25.0",
+    "eslint-plugin-vue-pro": "^1.0.0",
+    "vue-eslint-parser": "^9.4.2"
+  },
+  "devDependencies": {
+    "prettier": "3.2.5"
+  }
+}
